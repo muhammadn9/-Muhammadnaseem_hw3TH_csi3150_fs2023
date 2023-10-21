@@ -16,3 +16,13 @@ function toggleMoreInfo() {
     button.textContent = "Read More";
   }
 }
+function showBlurb(imageNumber) {
+  var blurbId = "blurb" + imageNumber;
+  var blurb = document.getElementById(blurbId);
+
+  if (blurb.style.display === "block") {
+    blurb.style.display = "none";
+  } else {
+    blurb.style.display = "block";
+  }
+}

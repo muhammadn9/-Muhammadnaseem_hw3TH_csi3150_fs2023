@@ -50,7 +50,7 @@
 .background2 {
   margin: 0;
   padding: 0;
-  background-image: url(/images/backgroundimg7.png);
+  background-image: url(/images/backgroundimg2.png);
   background-size: contain;
   background-attachment: fixed;
   background-repeat: none;
@@ -125,8 +125,83 @@
   color: #fff;
   height: 100vh;
   width: auto;
-  /* z-index: -1; */
+  z-index: -1;
   border-radius: 100px;
+}
+
+.layout2 {
+  display: inline-flex;
+  gap: 16px;
+  margin-left: 55px;
+  margin-right: 55px;
+}
+
+.text3 {
+  text-align: center;
+  font-size: 60px;
+  color: yellow;
+  margin-left: 500px;
+  margin-right: 500px;
+}
+
+.pic1 {
+  height: 600px;
+  width: 520px;
+  /* margin-left: 55px; */
+}
+
+.pic2 {
+  height: 600px;
+  width: 520px;
+}
+
+.pic3 {
+  height: 600px;
+  width: 520px;
+}
+
+/* .overlay {
+  position: absolute;
+  bottom: 10px;
+  left: 10px;
+  display: none;
+  background: rgba(255, 255, 255, 0.8);
+  padding: 10px;
+  border-radius: 5px;
+} */
+
+.arrow {
+  font-size: 75px;
+  cursor: pointer;
+  margin-left: 250px;
+  padding: 0;
+  color: rgb(198, 163, 10);
+  z-index: 7;
+  margin-top: -115px;
+}
+
+.blurb {
+  display: none;
+  font-size: 14px;
+}
+
+.image1:hover .overlay {
+  display: block;
+}
+
+.image1:hover .blurb {
+  display: block;
+}
+
+.read-more-button2 {
+  background-color: rgb(198, 163, 10);
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+  margin-left: 780px;
+  font-size: 20px;
 }
 
 .background4 {
@@ -161,6 +236,21 @@
   margin: 0;
   padding: 0;
   background-image: url(/images/backgroundimg6.png);
+  background-size: contain;
+  background-attachment: fixed;
+  background-repeat: none;
+  background-position: center center;
+  color: #fff;
+  height: 100vh;
+  width: auto;
+  /* z-index: -1; */
+  border-radius: 100px;
+}
+
+.background7 {
+  margin: 0;
+  padding: 0;
+  background-image: url(/images/backgroundimg7.png);
   background-size: contain;
   background-attachment: fixed;
   background-repeat: none;
