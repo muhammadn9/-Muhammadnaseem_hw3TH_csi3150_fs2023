@@ -12,7 +12,7 @@
 .background1 {
   margin: 0;
   padding: 0;
-  background-image: url(/images/backgroundimage1.png);
+  background-image: url(../images/backgroundimage1.png);
   background-size: contain;
   background-attachment: fixed;
   background-repeat: none;
@@ -50,7 +50,7 @@
 .background2 {
   margin: 0;
   padding: 0;
-  background-image: url(/images/backgroundimg2.png);
+  background-image: url(../images/backgroundimg2.png);
   background-size: contain;
   background-attachment: fixed;
   background-repeat: none;
@@ -117,7 +117,7 @@
 .background3 {
   margin: 0;
   padding: 0;
-  background-image: url(/images/backgroundimg3.png);
+  background-image: url(../images/backgroundimg3.png);
   background-size: contain;
   background-attachment: fixed;
   background-repeat: none;
@@ -207,7 +207,7 @@
 .background4 {
   margin: 0;
   padding: 0;
-  background-image: url(/images/backgroundimg4.png);
+  background-image: url(../images/backgroundimg4.png);
   background-size: contain;
   background-attachment: fixed;
   background-repeat: none;
@@ -253,7 +253,7 @@
 .background5 {
   margin: 0;
   padding: 0;
-  background-image: url(/images/backgroundimg5.png);
+  background-image: url(../images/backgroundimg5.png);
   background-size: contain;
   background-attachment: fixed;
   background-repeat: none;
@@ -352,7 +352,7 @@
 .background6 {
   margin: 0;
   padding: 0;
-  background-image: url(/images/backgroundimg6.png);
+  background-image: url(../images/backgroundimg6.png);
   background-size: contain;
   background-attachment: fixed;
   background-repeat: none;
@@ -506,7 +506,7 @@
 .background7 {
   margin: 0;
   padding: 0;
-  background-image: url(/images/backgroundimg7.png);
+  background-image: url(../images/backgroundimg7.png);
   background-size: contain;
   background-attachment: fixed;
   background-repeat: none;
